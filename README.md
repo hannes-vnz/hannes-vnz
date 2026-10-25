@@ -22,7 +22,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**Drone Object Detection & 3D Triangulation**](https://github.com/USERNAME/REPO) | Detects objects in drone images and locates them in 3D with georeferencing | Python, SAM, Docker |
-| [**Mammalatlas**](https://github.com/USERNAME/REPO](https://hannes-vnz.github.io/Mammalatlas/) | Interactive global map of mammal species with distribution polygons and IUCN status | MapLibre GL JS, data pipeline |
+| [**Mammalatlas**](https://github.com/hannes-vnz/mammalatlas) | Interactive global map of mammal species with distribution polygons and IUCN status | MapLibre GL JS, data pipeline |
 | [**Kartenanimator**](https://github.com/USERNAME/REPO) | Browser-based route and map animation tool with keyframe timeline and 4K WebM export | JavaScript, OSRM, Overpass API |
 
 <h3 align="left">Languages and Tools:</h3>
