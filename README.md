@@ -1,16 +1,23 @@
-# Hi, I'm Hannes 👋
+<h1 align="center">Hi 👋, I'm Hannes</h1>
+<h3 align="center">A passionate Computer Science student & developer<br/>focused on Data Science, Machine Learning and Software Engineering</h3>
 
-M.Sc. Computer Science student at **TU Berlin** (starting WS 26/27), previously B.Eng. Digital Engineering at Ostfalia (in cooperation with Volkswagen).
-I'm interested in **data science, machine learning and software engineering**, especially where they meet geodata and real-world systems.
+<p align="center">
+  M.Sc. Computer Science @ TU Berlin (from WS 26/27) · B.Eng. Digital Engineering (Ostfalia, in cooperation with Volkswagen)
+</p>
 
-## What I work on
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/USERNAME" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
+</p>
 
-- **Computer vision:** automated object detection and 3D triangulation from drone imagery (Python, SAM, Docker, georeferencing)
-- **Geo & data web apps:** interactive maps and visualisation tools (MapLibre GL JS, Leaflet, OSM data)
-- **Automation & dashboards:** process automation and shopfloor monitoring in an industrial setting (VBA, Power Platform)
-- **Full-stack web:** co-founded a small web agency for SMEs (React, JavaScript, HTML/CSS)
+<h3 align="left">What I work on:</h3>
 
-## Featured projects
+- 🛰️ **Computer vision:** automated object detection and 3D triangulation from drone imagery (Python, SAM, Docker, georeferencing)
+- 🗺️ **Geo & data web apps:** interactive maps and visualisation tools (MapLibre GL JS, Leaflet, OSM data)
+- 📊 **Automation & dashboards:** process automation and shopfloor monitoring in an industrial setting
+- 🌐 **Full-stack web:** co-founded a small web agency for SMEs (React, JavaScript, HTML/CSS)
+
+<h3 align="left">Featured projects:</h3>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -18,21 +25,10 @@ I'm interested in **data science, machine learning and software engineering**, e
 | [**Mammalatlas**](https://github.com/USERNAME/REPO) | Interactive global map of mammal species with distribution polygons and IUCN status | MapLibre GL JS, data pipeline |
 | [**Kartenanimator**](https://github.com/USERNAME/REPO) | Browser-based route and map animation tool with keyframe timeline and 4K WebM export | JavaScript, OSRM, Overpass API |
 
-More projects (ML service with CI/CD, SQL analytics, RAG with evaluation) are in progress.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Tech
+<h3 align="left">Currently:</h3>
 
-**Languages:** Python · JavaScript · SQL · VBA
-**Data & ML:** computer vision, Segment Anything (SAM), geospatial processing
-**Web:** React · HTML/CSS · MapLibre GL JS · Leaflet
-**Tools:** Docker · Git · Power Platform
-
-## Currently
-
-- Looking for a **working student position (10–15 h/week, remote/flexible)** in data science, ML or software engineering in Berlin
-- Building out this portfolio with documented, reproducible projects
-
-## Get in touch
-
-- LinkedIn: [Hannes Vincenz](https://www.linkedin.com/in/USERNAME)
-- Email: your.name@example.com
+- 🔎 Looking for a **working student position (10–15 h/week, remote/flexible)** in data science, ML or software engineering in Berlin
+- 🧱 Building out this portfolio with documented, reproducible projects (ML service with CI/CD, SQL analytics, RAG with evaluation)
